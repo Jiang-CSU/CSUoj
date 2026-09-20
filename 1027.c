@@ -1,3 +1,4 @@
+// 原先的做法，做了两个小时依然tle，复杂度太高，没办法啊。。。
 // #include <stdio.h>
 // #include <stdbool.h>
 // #include <string.h> 
